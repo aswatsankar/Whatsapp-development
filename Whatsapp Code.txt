@@ -1,3 +1,4 @@
 1. Last seen code
 2. Chat code
 3. Save code
+4. Hiding Last seen codde
